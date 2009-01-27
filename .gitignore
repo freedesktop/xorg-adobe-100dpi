@@ -10,3 +10,6 @@ configure
 install-sh
 missing
 *~
+font-adobe-100dpi-*.tar.*
+ChangeLog
+tags
